@@ -16,9 +16,16 @@ This project assumes user can execute Python 2 applications
 	* python file that contains movie instances and code to execute Movie Trailer website.
 
 ###Steps required to successfully run the application:
+With IDLE:
 1. Download the project file.
 2. Unzip the project file.
-3. Execute the `entertainment_center.py` application.
+3. Launch IDLE and open entertainment_center.py
+4. In the menu bar click on Run -> Run Module or press F5 on your keyboard
+
+With the terminal:
+1. Clone the directory
+2. Navigate into the directory cd repository_name
+3. Run python entertainment_center.py
 
 #####Acknowledgement
 The fresh_tomatoes.py is provided by Udacity
@@ -28,8 +35,3 @@ Free for distribution
 
 #####Disclaimer
 No liability will be accepted by the author.
-
-
-
-
-
